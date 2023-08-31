@@ -25,7 +25,7 @@ const Faq = () => {
 					id: 3,
 					question: 'How do I initiate an instance?',
 					answer:
-						'The [Cloudmos Deploy](https://deploy.cloudmos.io/) and the [Akash Console](https://console.akash.network/landing/node-deployment) web apps provide an intuitive interface to create and start an application on Akash Network. These platforms were purpose-built to allow users at any technical skill level to deploy instances on Akash.',
+						'The <a href="https://deploy.cloudmos.io/">Cloudmos Deploy</a> and the <a href="https://console.akash.network/landing/node-deployment">Akash Console</a> web apps provide an intuitive interface to create and start an application on Akash Network. These platforms were purpose-built to allow users at any technical skill level to deploy instances on Akash.',
 				},
 				{
 					id: 4,
