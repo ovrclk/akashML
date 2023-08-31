@@ -9,7 +9,9 @@ Currently, two official plugins are available:
 
 ## To update
 
-Whenever you want to update anything in this repo you have to run these commands:
+Each time you merge/push a commit to the `main` branch of this repo, the automation will be triggered to build and deploy the `gh-pages` branch of this repo.
+
+If the automation breaks for any reason, you can clone the repo to then build & deploy the `gh-pages` manually.
 
 ```
 npm run build
@@ -24,7 +26,7 @@ https://akashml.com
 
 ## GH repo config
 
-1. Navigate to the repo Settings -> [Pages](https://github.com/andy108369/akashML/settings/pages)
+1. Navigate to the repo Settings -> [Pages](https://github.com/ovrclk/akashML/settings/pages)
 2. Build and deployment:
 Source: `Deploy from a branch`
 Branch: `gh-pages`, `/ (root)`
@@ -36,5 +38,5 @@ Branch: `gh-pages`, `/ (root)`
 > Use TLS Full (NO strict) SSL/TLS Cloudflare setting
 > Use **Proxied** `Proxy status` for both DNS records
 
-- Point CNAME akashml.com to andy108369.github.io
-- Point CNAME www to andy108369.github.io
+- Point CNAME akashml.com to ovrclk.github.io
+- Point CNAME www to ovrclk.github.io
