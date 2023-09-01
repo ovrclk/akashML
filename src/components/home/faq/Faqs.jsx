@@ -100,9 +100,9 @@ const Faqs = () => {
 												</svg>
 											</div>
 											<p
-												className="text-[12px] md:text-[14px] mt-4 leading-relaxed text-[#8A8A8A]"
+												className="faq-answer text-[12px] md:text-[14px] mt-4 leading-relaxed text-[#8A8A8A]"
 												style={{ display: 'none' }}>
-												{question.answer}
+												dangerouslySetInnerHTML={{ __html: question.answer }}
 											</p>
 										</div>
 									))}
