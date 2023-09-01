@@ -62,7 +62,7 @@ const faqData = [
 				id: 10,
 				question:
 					'Where do I find documentation for AkashML and Akash Network?',
-				answer: 'Please refer to the Akash Network [documentation site](https://docs.akash.network/).',
+				answer: 'Please refer to the Akash Network <a href="https://docs.akash.network/">documentation site</a>.',
 			},
 			{
 				id: 11,
@@ -134,7 +134,7 @@ const faqData = [
 				id: 1,
 				question: 'Where are AkashML providers/data centers located?',
 				answer:
-					'Akash providers are located across the globe to allow tenants to deploy in a geolocale of their choosing. A current high-level representation of available provider locations may be seen in a map [here](https://akash.praetorapp.com/provider-status?chainid=akashnet-2). On the same page, precise provider location may be obtained by review per provider attributes and their associated ‘region’ specification.',
+					'Akash providers are located across the globe to allow tenants to deploy in a geolocale of their choosing. A current high-level representation of available provider locations may be seen in a map <a href="https://akash.praetorapp.com/provider-status?chainid=akashnet-2">here</a>. On the same page, precise provider location may be obtained by review per provider attributes and their associated ‘region’ specification.',
 			},
 			{
 				id: 2,
@@ -152,7 +152,7 @@ const faqData = [
 				id: 4,
 				question: 'What are currently available network speeds?',
 				answer:
-					'As Akash Network consists of individual provider entities, a wide range of network speeds are made available by such hosts. Many Akash providers are large data centers that offer very fast network speeds. Providers often advertise their network speeds and capabilities with attributes that are visible here and by drilling into individual provider listings on this [page](https://akash.praetorapp.com/provider-status?chainid=akashnet-2).',
+					'As Akash Network consists of individual provider entities, a wide range of network speeds are made available by such hosts. Many Akash providers are large data centers that offer very fast network speeds. Providers often advertise their network speeds and capabilities with attributes that are visible here and by drilling into individual provider listings on this <a href="https://akash.praetorapp.com/provider-status?chainid=akashnet-2">page</a>.',
 			},
 			{
 				id: 5,
