@@ -5,3 +5,9 @@
 body {
   background-color: #121212;
 }
+.faq-answer a {
+	text-decoration: underline;
+}
+.faq-answer a:hover {
+	color: #fff;
+}
