@@ -101,8 +101,8 @@ const Faqs = () => {
 											</div>
 											<p
 												className="faq-answer text-[12px] md:text-[14px] mt-4 leading-relaxed text-[#8A8A8A]"
-												style={{ display: 'none' }}>
 												dangerouslySetInnerHTML={{ __html: question.answer }}
+												style={{ display: 'none' }}>
 											</p>
 										</div>
 									))}
