@@ -12,7 +12,7 @@ const PowerYouNeed = () => {
     },
     {
       id: 3,
-      title: "Variety of options",
+      title: "A wide range of GPUs",
       description:
         "From H100s to 3080s, with additional models available upon request",
     },
