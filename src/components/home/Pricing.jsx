@@ -95,7 +95,7 @@ const Pricing = () => {
 								href="https://akashnet.typeform.com/to/yRwjGdqz"
 								target="_blank"
 								rel="noreferrer">
-								<span className="underline ml-3">Tell Us</span>
+								<span className="underline ml-3">Let us know</span>
 							</a>
 						</p>
 					</div>
